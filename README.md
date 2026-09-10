@@ -6,7 +6,7 @@
   <br>
 
   <!-- ⚽ Welcome 문구 -->
-  <h1>Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Red%20Heart.png" alt="Red Heart" width="25" height="25" /></h1>
+  <h1>Welcome to my GitHub!</h1>
 
   <p>
     <b>상승곡선을 그리며 성장하는 풀스택 개발자 YoonJeounghu입니다.</b><br>
