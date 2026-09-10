@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 맨유 버건디 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C70101&height=180&section=header&text=YOUN%20JEONG%20HU&fontSize=40&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C70101&height=180&section=header&text=YOON%20JEONG%20HU&fontSize=40&fontColor=ffffff" width="100%"/>
 
   <br>
 
