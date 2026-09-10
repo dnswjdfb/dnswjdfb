@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 깔끔한 맨유 버건디 헤더 -->
+  <!-- 맨유 버건디 헤더 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C70101&height=180&section=header&text=YOUN%20JEONG%20HU&fontSize=40&fontColor=ffffff" width="100%"/>
 
   <br>
@@ -23,7 +23,6 @@
   <br><br>
 
   <h2>🛠️ Tech Stack</h2>
-  <p>눈이 편안하고 가독성이 높은 기술 스택 아이콘입니다.</p>
 
   <!-- 프론트엔드 아이콘 모음 -->
   <p><b>Frontend</b></p>
@@ -57,10 +56,9 @@
 
   <h2>📊 GitHub Stats</h2>
 
-  <!-- 깃허브 커밋 통계 (가독성 높은 다크 테마) -->
+  <!-- 에러 없이 항상 잘 뜨는 서버 오픈소스 통계 그래프 -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dnswjdfb&show_icons=true&theme=dark&hide_border=true&title_color=C70101&icon_color=C70101" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnswjdfb&layout=compact&theme=dark&hide_border=true&title_color=C70101" height="150" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnswjdfb&theme=github-compact&bg_color=0d1117&color=C70101&line=C70101&point=ffffff&hide_border=true" width="90%" />
   </p>
 
 </div>
