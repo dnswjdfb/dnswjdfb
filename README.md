@@ -1,61 +1,72 @@
-# 🖐️ 안녕하세요! 상승곡선을 그리는 풀스택 개발자 윤정후입니다.
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Jeonghu's%20GitHub!&fontSize=38" width="100%"/>
-</div>
 
-<br>
+  <!-- 맨유 레드 데블스 컨셉 헤더 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DA020E&height=200&section=header&text=GGMU%20%7C%20YOUN%20JEONG%20HU&fontSize=38&fontColor=ffffff" width="100%"/>
 
-## 🙋‍♂️ About Me
-- 🚀 성장형 개발자: 새로운 기술을 습득하고 명확한 성과를 만들어낼 때 큰 성취감을 느낍니다[cite: 1].
-- 💡 협업 & 소통: 프로젝트의 안정성과 팀 내 활발한 소통을 중요하게 생각합니다[cite: 1].
-- 🏫 소속: 미림마이스터고등학교 뉴미디어소프트웨어과 재학 중 (2024 ~ 2027.01 졸업 예정)[cite: 1]
+  <br>
 
-<br>
+  <h1>😈 THE RED DEVIL DEVELOPER</h1>
 
-## 🛠️ Tech Stack
+  <p>
+    <b>상승곡선을 그리며 한계를 뛰어넘는 풀스택 개발자 윤정후입니다.</b><br>
+    새로운 기술을 정복하고 명확한 성과를 만들어내는 과정에서 최고의 타오름을 느낍니다.
+  </p>
 
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  <br>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <p>
+    🎓 <b>Mirim Meister High School</b> (New Media Software Dept.)<br>
+    📧 <b>Contact</b> : yjhgg1809@gmail.com | 🐙 <b>GitHub</b> : <a href="https://github.com/dnswjdfb">@dnswjdfb</a>
+  </p>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  <br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-88f4-105fc7b5034a.gif" width="100%">
+  <br><br>
 
-### 🧰 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+  <h2>⚔️ SKILL SETS</h2>
 
-<br>
+  <!-- 프론트엔드 -->
+  <p><b>Frontend</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-DA020E?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+    <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+    <img src="https://img.shields.io/badge/Flutter-181717?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+    <img src="https://img.shields.io/badge/Kotlin-181717?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+  </p>
 
-## 📬 Contact
-- 📧 Email: yjhgg1809@gmail.com[cite: 1]
-- 🐙 GitHub: [github.com/dnswjdfb](https://github.com/dnswjdfb)[cite: 1]
+  <!-- 백엔드 -->
+  <p><b>Backend</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-DA020E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NestJS-181717?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+    <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-181717?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+    <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  </p>
 
-<br>
+  <!-- 데이터베이스 및 도구 -->
+  <p><b>Database & Environment</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+    <img src="https://img.shields.io/badge/Oracle-181717?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+    <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+    <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032"/>
+    <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  </p>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnswjdfb&show_icons=true&theme=radial&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnswjdfb&layout=compact&theme=radial&hide_border=true" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-88f4-105fc7b5034a.gif" width="100%">
+  <br><br>
+
+  <h2>🔥 DEVIL'S STREAK</h2>
+
+  <!-- 에러 없는 스트릭 통계 카드 (맨유 레드 테마) -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnswjdfb&theme=black-ice&fire=DA020E&ring=DA020E&currStreakLabel=DA020E" alt="GitHub Streak" />
+  </p>
+
 </div>
