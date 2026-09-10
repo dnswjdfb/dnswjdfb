@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 🔥 불꽃 애니메이션 배너 (링크 제거) -->
+  <!-- 🔥 불꽃 애니메이션 배너 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C70101&height=220&section=header&text=YoonJeounghu&fontSize=50&fontColor=ffffff&waving=fire" width="100%"/>
 
   <br>
@@ -60,9 +60,11 @@
 
   <br>
 
-  <!-- 맨유 레드 포인트 테마의 잔디밭 그래프 -->
-  <p>
-    <img src="https://ghchart.rshah.org/C70101/dnswjdfb" alt="dnswjdfb's Github Stats" width="100%" />
-  </p>
+  <!-- 🔥 맨유 레드 테마 잔디 불태우는 뱀 애니메이션 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnswjdfb/dnswjdfb/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnswjdfb/dnswjdfb/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/dnswjdfb/dnswjdfb/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
