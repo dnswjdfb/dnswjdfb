@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 맨유 버건디 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C70101&height=180&section=header&text=YOON%20JEONG%20HU&fontSize=40&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C70101&height=180&section=header&text=YOUN%20JEONG%20HU&fontSize=40&fontColor=ffffff" width="100%"/>
 
   <br>
 
@@ -54,11 +54,17 @@
 
   <br><br>
 
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 GitHub Profile Summary</h2>
 
-  <!-- 에러 없이 항상 잘 뜨는 서버 오픈소스 통계 그래프 -->
+  <!-- 절대 깨지지 않는 깃허브 메인 잔디밭/활동 3D 뷰 및 커밋 카운터 -->
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnswjdfb&theme=github-compact&bg_color=0d1117&color=C70101&line=C70101&point=ffffff&hide_border=true" width="90%" />
+    <img src="https://komarev.com/ghpvc/?username=dnswjdfb&color=C70101&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+  
+  <br>
+
+  <p>
+    <img src="https://ghchart.rshah.org/C70101/dnswjdfb" alt="dnswjdfb's Github Stats" width="100%" />
   </p>
 
 </div>
